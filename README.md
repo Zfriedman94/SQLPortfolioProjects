@@ -5,4 +5,4 @@ Within this Repo is:
 
 2. The .csv files uploaded that fed the SQL database - these came from: https://ourworldindata.org/covid-deaths
 
-3. Photos of the Table outcomes from the SQL
+3. Photos of the Table outcomes from the SQL: https://github.com/Zfriedman94/SQLPortfolioProjects/blob/1745e5bc347d3cf38a37ef40391503aa327bb8d1/SQLQueryViews.pdf
