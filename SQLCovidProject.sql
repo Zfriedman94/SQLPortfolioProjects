@@ -17,7 +17,7 @@ from CovidDeathsCSV
 WHERE continent IS NOT NULL
 order by 1,2
 
-
+https://github.com/Zfriedman94/SQLPortfolioProjects/blob/997d1081840bfe4664ada174d98ac4b48bca62a2/SQLCovid_Table%201.JPG
 
 -- UNITED STATES DATA
 -- Looking at the Total Cases vs. Total Deaths and formatting Data Types properly
