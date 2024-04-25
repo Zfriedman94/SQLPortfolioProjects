@@ -17,7 +17,7 @@ from CovidDeathsCSV
 WHERE continent IS NOT NULL
 order by 1,2
 
-
+SQLCovid_Table 1.JPG
 
 
 -- UNITED STATES DATA
